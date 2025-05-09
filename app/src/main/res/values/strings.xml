@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BubbleSortApp</string>
+    <string name="bubble_sort_app">Bubble Sort App</string>
+</resources>
