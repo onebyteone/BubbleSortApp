@@ -23,7 +23,7 @@ Una aplicación Android que permite ingresar cinco números y ordenarlos de form
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/onebyteone/BubbleSortApp.git
-````
+   ````
 
 2. Abre el proyecto en Android Studio
 
